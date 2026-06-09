@@ -3,9 +3,8 @@
 # Tracker личных рекордов и спортивного прогресса
 
 ### Материалы
- 
 
-* [Курсовая_работа.docx](https://github.com/user-attachments/files/28771977/_.docx)
+* [Курсовая работа .docx](https://github.com/user-attachments/files/28774573/default.docx)
 * [Курсовая работа.pdf](https://github.com/user-attachments/files/28772057/default.pdf)
 
 * [Презентация](https://github.com/user-attachments/files/28769451/default.pptx)
