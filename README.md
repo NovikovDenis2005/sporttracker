@@ -1,4 +1,4 @@
-[Презентация.pptx](https://github.com/user-attachments/files/28769378/default.pptx)# Tracker личных рекордов и спортивного прогресса
+# Tracker личных рекордов и спортивного прогресса
 
 ### Материалы
 
