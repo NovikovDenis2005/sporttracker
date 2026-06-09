@@ -5,7 +5,7 @@
  
 
 * [Курсовая_работа.docx](https://github.com/user-attachments/files/28771977/_.docx)
-* [Курсовая_работа.pdf](https://github.com/user-attachments/files/28771989/_.pdf)
+
 
 * [Презентация](https://github.com/user-attachments/files/28769451/default.pptx)
 * [Презентация.pdf](https://github.com/user-attachments/files/28771823/default.pdf)
